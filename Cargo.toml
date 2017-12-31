@@ -1,0 +1,9 @@
+[package]
+name = "set1"
+version = "0.1.0"
+authors = ["Dash83 <caballeromarco@gmail.com>"]
+
+[dependencies]
+base64 = "0.8.0"
+hex = "0.3.1"
+rust-crypto = "0.2.36"
